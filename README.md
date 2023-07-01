@@ -38,7 +38,7 @@ python number_plate_detection.py
 
 Example Showcase - 
 
-[Testimonial]()
+[Testimonial](https://github.com/Mohshaikh23/Number_Plate_Recognizer/blob/main/Input%20Images/sampled1.png?raw=true)
 
 The script will open a window displaying the video feed from the camera.
 If a number plate is detected, it will be outlined with a rectangle, and the text "Number Plate" will be displayed above it.
